@@ -10,7 +10,6 @@ html {
     padding: 30px;
     margin: 0 auto;
     max-width: 800px;
-    /* background-image: url("../images/backgroundPicture.jpg"); */
+    background-image: url("backgroundPicture.jpg");
 }
-
 

@@ -7,7 +7,6 @@ import Input from "./Input";
 import './style.css';
 
 
-
 function App() {
     return (
         <div className="container body">
@@ -30,7 +29,7 @@ function App() {
                 </fieldset>
             </form>
             <p>Kurs walut na dzień (06.01.2023r.):</p>
-            <List/>
+            <List />
         </div>
     )
 }
