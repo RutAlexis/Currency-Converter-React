@@ -1,0 +1,11 @@
+.fieldset__button {
+    padding: 7px;
+    color: black;
+    background-color: hsl(231, 6%, 85%);
+    border-style: none;
+    width: 120px;
+    border-radius: 10%;
+    margin: 10px;
+}
+
+
